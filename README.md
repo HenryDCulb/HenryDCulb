@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henry Culbertson</h1>
 <h3 align="center">A currently learning computer programmer</h3>
 
-- 🔭 I’m currently working on **TBD**
+<h1 align="left" color="FF0000">- 🔭 I’m currently working on **TBD**</h1>
+
 
 - 🌱 I’m currently learning **game projects in Unity**
 
